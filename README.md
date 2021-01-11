@@ -1,6 +1,8 @@
 # Fragment-only
-![alt text](https://github.com/DuyNgoc2308/Fragment-only/blob/main/signin.PNG)
-![alt text](https://github.com/DuyNgoc2308/Fragment-only/blob/main/Signup.PNG)
+![alt text](UI/signin.PNG)
+![alt text](UI/Signup.PNG)
+![alt text](UI/home.PNG)
+![alt text](UI/Profile.PNG)
 
 Including:
 1. Login and Signup activity
