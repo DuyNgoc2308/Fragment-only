@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="account_id" type="id" />
+    <item name="account_password" type="id" />
+    <item name="account_username" type="id" />
+    <item name="btn_delete" type="id" />
+</resources>
